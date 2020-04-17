@@ -1,0 +1,14 @@
+{
+    "offOnShore": [{
+        "OnshoreOffshore": "Offshore",
+        "ClientBillable":"7",
+    "blank":"",
+    "TotalHC":"7"
+},{
+    "OnshoreOffshore": "Onshore",
+        "ClientBillable":"1",
+    "blank":"",
+    "TotalHC":"1"
+}
+]
+}

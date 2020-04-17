@@ -1,0 +1,30 @@
+
+{
+    "demandSummary": [{
+        "Project": "CBTAO",
+    "WithinCRSD": "14",
+    "ResourceIden":"",
+	"GrandTotal": "14"
+},{
+        "Project": "INT-ESI PMO",
+    "WithinCRSD": "3",
+    "ResourceIden":"",
+    "GrandTotal": "3"
+},{
+    "Project": "IT-PSO",
+"WithinCRSD": "",
+"ResourceIden":"8",
+"GrandTotal": "8"
+},{
+    "Project": "Retail Networking-Phoenix",
+"WithinCRSD": "2",
+"ResourceIden":"",
+"GrandTotal": "2"
+},{
+    "Project": "Grand total",
+"WithinCRSD": "19",
+"ResourceIden":"8",
+"GrandTotal": "27"
+}
+]
+}

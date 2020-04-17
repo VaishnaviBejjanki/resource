@@ -1,0 +1,50 @@
+
+{
+    "overallResource": [{
+        "ProjectManager": "(blank)",
+    "ProjectName": "(blank)",
+    "M":"",
+    "TL": "",
+    "SSE":"",
+    "ASE":"",
+    "blank":"",
+    "GrandTotal":""
+},{
+    "ProjectManager": "(blank)Total",
+    "ProjectName": "",
+    "M":"",
+    "TL": "",
+    "SSE":"",
+    "ASE":"",
+    "blank":"",
+    "GrandTotal":""
+},{
+    "ProjectManager": "Jani Bhasha",
+    "ProjectName": "Home Delivery",
+    "M":"1",
+    "TL": "3",
+    "SSE":"3",
+    "ASE":"1",
+    "blank":"",
+    "GrandTotal":"8"
+},{
+    "ProjectManager": "Jani Bhasha Total ",
+    "ProjectName": "",
+    "M":"1",
+    "TL": "3",
+    "SSE":"3",
+    "ASE":"1",
+    "blank":"",
+    "GrandTotal":"8"
+},{
+    "ProjectManager": "Grand Total ",
+    "ProjectName": "",
+    "M":"1",
+    "TL": "3",
+    "SSE":"3",
+    "ASE":"1",
+    "blank":"",
+    "GrandTotal":"8"
+}
+]
+}

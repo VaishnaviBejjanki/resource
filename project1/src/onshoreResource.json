@@ -1,0 +1,29 @@
+
+{
+    "onshoreResource": [{
+        "ProjectManager": "(blank)",
+        "ProjectName":"(blank)",
+    "TL": "(blank)",
+    "blank":"",
+    "TotalHC":""
+},{
+    "ProjectManager": "(blank)Total",
+    "ProjectName":"",
+    "TL": "",
+    "blank":"",
+    "TotalHC":""
+},{
+    "ProjectManager": "Jani Bhasha",
+    "ProjectName":"Home Delivery",
+    "TL": "1",
+    "blank":"",
+    "TotalHC":"1"
+},{
+    "ProjectManager": "Jani Bhasha Total",
+    "ProjectName":"",
+    "TL": "1",
+    "blank":"",
+    "TotalHC":"1"
+}
+]
+}

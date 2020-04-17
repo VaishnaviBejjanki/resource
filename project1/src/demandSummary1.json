@@ -1,0 +1,293 @@
+
+{
+    "demandSummary1": [{
+        "Project": "BA/BSA Factory",
+    "IDCLevel": "11",
+    "PrimarySkill":"Oracle-PL/SQL",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "CBTAO",
+    "IDCLevel": "7",
+    "PrimarySkill":"Oracle SCM Warehouse management/E business Skillset",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "8",
+    "PrimarySkill":"Oracle Apps Development",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps SCM",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps DBA",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "9",
+    "PrimarySkill":"ETL Developer",
+    "DemandCancelled": "",
+    "DemandFullfilled": "2",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Informatica",
+    "DemandCancelled": "",
+    "DemandFullfilled": "2",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps Development",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle-Financial Accounting Hub",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle-SCM-Inventory & Warehouse Management System",
+    "DemandCancelled": "1",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps Financials",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps DBA",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"2",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "10",
+    "PrimarySkill":"Informatica",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Inventory Optimization/Planning Analytics",
+    "DemandCancelled": "1",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps Development",
+    "DemandCancelled": "",
+    "DemandFullfilled": "2",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Procurement",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle-eBus-Purchasing",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle-Financials",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle-Financial",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps Procurement",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps DBA",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"2",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "11",
+    "PrimarySkill":"Oracle Apps Development",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Informatica Power Center",
+    "DemandCancelled": "",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"1",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "12",
+    "PrimarySkill":"Informatica",
+    "DemandCancelled": "",
+    "DemandFullfilled": "2",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle App Development",
+    "DemandCancelled": "",
+    "DemandFullfilled": "2",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle App-Development",
+    "DemandCancelled": "",
+    "DemandFullfilled": "2",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps Development",
+    "DemandCancelled": "",
+    "DemandFullfilled": "3",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"2",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Oracle Apps",
+    "DemandCancelled": "",
+    "DemandFullfilled": "4",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "CMT",
+    "IDCLevel": "12",
+    "PrimarySkill":"QA",
+    "DemandCancelled": "1",
+    "DemandFullfilled": "",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "CRM Pega",
+    "IDCLevel": "9",
+    "PrimarySkill":"Pega",
+    "DemandCancelled": "",
+    "DemandFullfilled": "2",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+},{
+    "Project": "",
+    "IDCLevel": "",
+    "PrimarySkill":"Service Virtualization",
+    "DemandCancelled": "",
+    "DemandFullfilled": "1",
+    "ZerotoFifteen":"",
+    "MoreFifteen":"",
+    "ResourceId":""
+}
+]
+}

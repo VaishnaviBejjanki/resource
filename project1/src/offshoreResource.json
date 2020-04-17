@@ -1,0 +1,29 @@
+
+{
+    "offshoreResource": [{
+        "ProjectManager": "Jani Bhasha",
+    "ProjectName": "Home Delivery",
+    "M":"1",
+    "TL": "2",
+    "SSE":"3",
+    "ASE":"1",
+    "TotalHC":"7"
+},{
+    "ProjectManager": "Jani Bhasha Total",
+    "ProjectName": "",
+    "M":"1",
+    "TL": "2",
+    "SSE":"3",
+    "ASE":"1",
+    "TotalHC":"7"
+},{
+    "ProjectManager": "Total HC",
+    "ProjectName": "",
+    "M":"1",
+    "TL": "2",
+    "SSE":"3",
+    "ASE":"1",
+    "TotalHC":"7"
+}
+]
+}
